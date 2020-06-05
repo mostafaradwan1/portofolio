@@ -432,7 +432,7 @@ body {
 /*contact-form*/
 
 #contact-form {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/banner-2.jpeg)center/cover fixed no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/email.png)center/cover fixed no-repeat;
   clip-path: polygon(0 20%, 100% 0%, 100% 80%, 0 100%)
 }
 
@@ -618,9 +618,12 @@ body {
 .height-60 {
   min-height: 80vh;
 }
+.height-20 {
+  min-height: 30vh;
+}
 
 #contact {
-  background: linear-gradient(rgba(42, 145, 52, 0.3), rgba(42, 145, 52, 0.3)), url(img/banner-1.jpeg)center/cover fixed no-repeat;
+  background: linear-gradient(rgba(42, 145, 52, 0.3), rgba(42, 145, 52, 0.3)), url(img/kon-karampelas-N82naZ0N4TY-unsplash.jpg)center/cover fixed no-repeat;
 }
 
 
